@@ -16,7 +16,9 @@ Mac ：Terminal中运行Brew install git  后git --version查看版本
 
 
 
-![image-20200514083641332](E:\授课\day1\image-20200514083641332.png)
+![](https://cdn.jsdelivr.net/gh/s1119858711/picture-host//ndata/image-20200514083641332.png)
+
+
 
 ---
 
@@ -29,7 +31,7 @@ Mac ：Terminal中运行Brew install git  后git --version查看版本
 >
 > git config --global user.email 1119858711@qq.com
 
-- ![image-20200514082058186](E:\授课\day1\image-20200514082058186.png)
+- ![](https://cdn.jsdelivr.net/gh/s1119858711/picture-host//ndata/image-20200514082058186.png)
 
 > - git init
 > - git add .
