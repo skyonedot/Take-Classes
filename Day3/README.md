@@ -1,4 +1,5 @@
 :cat: 上两次讲过的内容转入Class中
+模板如下：
 
 *class Day1:*
 
