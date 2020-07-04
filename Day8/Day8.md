@@ -61,6 +61,15 @@
 
 # Day8-Homework
 
+1. usaco网站上注册账号并且完成Section1.1 和 Section1.2的第一个
+2. 上面的四个code 敲出来  （周二晚上10点之前给我）
+
+
+
+
+
+
+
 1. [乘坐飞碟](https://ac.nowcoder.com/acm/contest/395/A)
 
 2. [杨辉三角](https://www.nowcoder.com/questionTerminal/e98bd047f1cf498298b1f19a5170f06d?orderByHotValue=0&commentTags=C/C++)
